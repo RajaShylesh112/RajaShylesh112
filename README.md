@@ -16,8 +16,6 @@
 
 🛢️ Databases: MySQL, MongoDB, Oracle XE
 
-🔐 Cybersecurity: Network Security, Penetration Testing
-
 📫 Connect with Me
 
 🔗 GitHub (https://github.com/RajaShylesh112)
